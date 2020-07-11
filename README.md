@@ -39,6 +39,6 @@ Profiremu23 for Rescale Coutinued,
 
 Sigma88 for Sigma Dimensions,
 
-ialdabaoth, Sarbian and Blowfish for Kopernicus and Module Manager.
+ialdabaoth, Sarbian and Blowfish for Kopernicus and Module Manager,
 
-And ofcourse, Squad for creating Kerbal Space Program
+And ofcourse, Squad for creating Kerbal Space Program.
