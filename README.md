@@ -27,7 +27,7 @@ You can select 2x, 2.5x, 3.2x, 5.4x, 7.5x, and even 10x scale to make the planet
 
 # How to install?
 
-To install, you need to install the requirmented mods. Select one of scale configs. After downloading finished, unzip the Rescale folder to your GameData folder.
+To install, you need to install the required mods. Select ONLY one of scale configs. After downloading finished, unzip the Rescale folder to your GameData folder.
 
 
 
