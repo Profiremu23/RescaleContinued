@@ -52,3 +52,4 @@ ialdabaoth, Sarbian and Blowfish for Kopernicus and Module Manager
 # Wishlist:
 
 -Support for planet packs
+-Releasing larger scale configs
