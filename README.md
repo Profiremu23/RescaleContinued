@@ -17,6 +17,6 @@ Scale examples:
 
 5.4x Scale: 50% Earth scale, if you want to play on this scale with stock parts, i recommend to use Real Fuels or SMURFF to balance the stock parts.
 
-7.5x Scale: 75% Earth scale, this scale is really hard to play with unmodded stock parts.
+7.6x Scale: 75% Earth scale, this scale is really hard to play with unmodded stock parts.
 
 10.0x and 10.618x Scale: On this scale, every stock planet is 1:1 copies of real life counterparts.
