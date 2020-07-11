@@ -13,7 +13,7 @@ Scale examples:
 
 2x Scale: Is for a simple taste for advanced players to try larger stock planets.
 
-2.5x and 3.2x Scale: is for players to play large planets, but still with stock parts.
+2.5x and 3.2x Scale: is for players to play the stock system larger than 2x scale, but still want to use stock parts.
 
 5.4x Scale: 50% Earth scale, if you want to play on this scale with stock parts, i recommend to use Real Fuels or SMURFF to balance the stock parts.
 
