@@ -33,7 +33,9 @@ Module Manager: https://github.com/sarbian/ModuleManager
 
 
 
-# Special Thanks for: Profiremu23 for Rescale Coutinued,
+# Special Thanks for:
+
+Profiremu23 for Rescale Coutinued,
 
 Sigma88 for Sigma Dimensions,
 
