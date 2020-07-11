@@ -31,7 +31,7 @@ Sigma Dimensions: https://github.com/Sigma88/Sigma-Dimensions/releases
 
 Module Manager: https://github.com/sarbian/ModuleManager
 
-
+ModularFlightIntegrator: https://github.com/sarbian/ModularFlightIntegrator
 
 # Special Thanks for:
 
@@ -39,6 +39,4 @@ Profiremu23 for Rescale Coutinued,
 
 Sigma88 for Sigma Dimensions,
 
-ialdabaoth, Sarbian and Blowfish for Kopernicus and Module Manager,
-
-And ofcourse, Squad for creating Kerbal Space Program.
+ialdabaoth, Sarbian and Blowfish for Kopernicus and Module Manager
