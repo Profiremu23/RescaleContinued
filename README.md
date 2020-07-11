@@ -1,10 +1,14 @@
 # Rescale Coutinued
+
 About the mod: 
 
-Do you ever thinked stock scaled Kerbol system is too easy?
-Are you tired from planets are too small to even be called planets? Or stock engines are overpowered in the default scale? Do you ever wished for larger planets?
+Are you ever thinked about stock scaled Kerbol system is too easy?
+Or stock engines are overpowered in the default scale?
+Do you tired from planets are too small to even be called planets?
+Do you ever wished for larger planets?
 This mod is for you! The Rescale Coutinued is a small mod used with Sigma Dimensions to change the universal scale!
 You can select 2x, 2.5x, 3.2x, 5.4x, 7.5x, and even 10x scale to make the planets larger!
+
 
 
 # Scale examples:
@@ -32,6 +36,8 @@ Sigma Dimensions: https://github.com/Sigma88/Sigma-Dimensions/releases
 Module Manager: https://github.com/sarbian/ModuleManager
 
 ModularFlightIntegrator: https://github.com/sarbian/ModularFlightIntegrator
+
+
 
 # Special Thanks for:
 
