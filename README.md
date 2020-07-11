@@ -31,11 +31,13 @@ Kerbal Space Program 1.8 or 1.9 (1.10 in correctly unsupported because Kopernicu
 
 Kopernicus: https://github.com/Kopernicus/Kopernicus
 
-Sigma Dimensions: https://github.com/Sigma88/Sigma-Dimensions/releases
+Kronometer: https://github.com/Kopernicus/Kronometer
 
 Module Manager: https://github.com/sarbian/ModuleManager
 
 ModularFlightIntegrator: https://github.com/sarbian/ModularFlightIntegrator
+
+Sigma Dimensions: https://github.com/Sigma88/Sigma-Dimensions/releases
 
 
 
