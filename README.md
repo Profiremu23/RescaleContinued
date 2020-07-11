@@ -21,9 +21,7 @@ You can select 2x, 2.5x, 3.2x, 5.4x, 7.5x, and even 10x scale to make the planet
 
 
 
-# Required mods: Sigma Dimensions, Kopernicus Planetary System Modifier, Module Manager,
-
-Releases: 
+# Required mods
 
 Kopernicus: https://github.com/Kopernicus/Kopernicus
 
