@@ -2,7 +2,7 @@
 A Kerbal Space Program mod
 
 
-#About the mod: 
+# About the mod: 
 
 Do you ever thinked stock scaled Kerbol system is too easy?
 Are you tired from planets are too small to even be called planets? Do you ever wished for larger planets?
@@ -10,7 +10,7 @@ This mod is for you! The Rescale Coutinued is a small mod used with Sigma Dimens
 You can select 2x, 2.5x, 3.2x, 5.4x, 7.5x, and even 10x scale to make the planets larger!
 
 
-#Scale examples:
+# Scale examples:
 
 2x Scale: Is for a simple taste for advanced players to try larger stock planets.
 
@@ -24,7 +24,7 @@ You can select 2x, 2.5x, 3.2x, 5.4x, 7.5x, and even 10x scale to make the planet
 
 
 
-#Required mods: Sigma Dimensions, Kopernicus Planetary System Modifier, Module Manager,
+# Required mods: Sigma Dimensions, Kopernicus Planetary System Modifier, Module Manager,
 
 Releases: 
 
@@ -36,7 +36,7 @@ Module Manager: https://github.com/sarbian/ModuleManager
 
 
 
-#Special Thanks for: Profiremu23 for Rescale Coutinued,
+# Special Thanks for: Profiremu23 for Rescale Coutinued,
 
 Sigma88 for Sigma Dimensions,
 
