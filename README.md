@@ -46,3 +46,7 @@ Profiremu23 for Rescale Coutinued,
 Sigma88 for Sigma Dimensions,
 
 ialdabaoth, Sarbian and Blowfish for Kopernicus and Module Manager
+
+# Wishlist:
+
+-Support for planet packs
