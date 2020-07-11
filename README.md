@@ -23,7 +23,7 @@ You can select 2x, 2.5x, 3.2x, 5.4x, 7.5x, and even 10x scale to make the planet
 
 # Requirements
 
-Kerbal Space Program 1.8 or 1.9
+Kerbal Space Program 1.8 or 1.9 (1.10 in correctly unsupported because Kopernicus dont have a 1.10 release)
 
 Kopernicus: https://github.com/Kopernicus/Kopernicus
 
