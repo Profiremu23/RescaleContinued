@@ -40,7 +40,7 @@ Kopernicus for 1.8: https://github.com/Kopernicus/Kopernicus
 
 For 1.9 Kopernicus, download link: https://github.com/prestja/Kopernicus/releases/tag/release-1.9.1-4
 
-Kronometer: https://github.com/Kopernicus/Kronometer
+Kronometer (not required, but i recommend for setting the date display accurate): https://github.com/Kopernicus/Kronometer
 
 Module Manager: https://github.com/sarbian/ModuleManager
 
@@ -48,6 +48,7 @@ ModularFlightIntegrator: https://github.com/sarbian/ModularFlightIntegrator
 
 Sigma Dimensions: https://github.com/Sigma88/Sigma-Dimensions/releases
 
+And Rescale Coutinued's download link: https://github.com/Profiremu23/RescaleCoutinued/releases/tag/master
 
 
 # Special Thanks for:
