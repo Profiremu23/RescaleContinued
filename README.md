@@ -7,7 +7,7 @@ Or stock engines are overpowered in the default scale?
 Do you tired from planets are too small to even be called planets?
 Do you ever wished for larger planets?
 This mod is for you! The Rescale Coutinued is a small mod used with Sigma Dimensions to change the universal scale!
-You can select 2x, 2.5x, 3.2x, 5.4x, 7.5x, and even 10x scale to make the planets larger!
+You can select 2x, 2.5x, 3.5x, 5.4x, 7.6x, and even 10x scale to make the planets larger!
 
 
 
