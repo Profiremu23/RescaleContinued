@@ -35,7 +35,9 @@ To install, you need to install the required mods. Select ONLY one of scale conf
 
 Kerbal Space Program 1.8 or 1.9 (1.10 in correctly unsupported because Kopernicus dont have a 1.10 release)
 
-Kopernicus: https://github.com/Kopernicus/Kopernicus
+Kopernicus for 1.8: https://github.com/Kopernicus/Kopernicus 
+
+For 1.9 Kopernicus, download link: https://github.com/prestja/Kopernicus/releases/tag/release-1.9.1-4
 
 Kronometer: https://github.com/Kopernicus/Kronometer
 
