@@ -15,7 +15,7 @@ You can select 2x, 2.5x, 3.2x, 5.4x, 7.5x, and even 10x scale to make the planet
 
 2x Scale: Is for a simple taste for advanced players to try larger stock planets.
 
-2.5x and 3.2x Scale: is for players to play the stock system larger than 2x scale, but still want to use stock parts.
+2.5x and 3.54x Scale: is for players to play the stock system larger than 2x scale, but still want to use stock parts.
 
 5.4x Scale: 50% Earth scale, if you want to play on this scale with stock parts, i recommend to use Real Fuels or SMURFF to balance the stock parts.
 
