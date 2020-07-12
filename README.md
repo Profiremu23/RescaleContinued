@@ -59,6 +59,8 @@ Sigma88 for Sigma Dimensions,
 
 ialdabaoth, Sarbian and Blowfish for Kopernicus and Module Manager
 
+This addon licensed by GNU General Public License: https://www.gnu.org/licenses/why-not-lgpl.html
+
 # Wishlist:
 
 -Support for planet packs
