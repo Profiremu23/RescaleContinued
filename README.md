@@ -1,4 +1,4 @@
-# Rescale Coutinued
+# Rescale Continued
 
 About the mod: 
 
@@ -6,7 +6,7 @@ Are you ever thinked about stock scaled Kerbol system is too easy?
 Or stock engines are overpowered in the default scale?
 Do you tired from planets are too small to even be called planets?
 Do you ever wished for larger planets?
-This mod is for you! The Rescale Coutinued is a small mod used with Sigma Dimensions to change the universal scale!
+This mod is for you! The Rescale Continued is a small mod used with Sigma Dimensions to change the universal scale!
 You can select 2x, 2.5x, 3.5x, 5.4x, 7.6x, and even 10x scale to make the planets larger!
 
 
@@ -48,7 +48,7 @@ ModularFlightIntegrator: https://github.com/sarbian/ModularFlightIntegrator
 
 Sigma Dimensions: https://github.com/Sigma88/Sigma-Dimensions/releases
 
-And Rescale Coutinued's download link: https://github.com/Profiremu23/RescaleCoutinued/releases/tag/master
+And Rescale Continued's download link: https://github.com/Profiremu23/RescaleCoutinued/releases/tag/master
 
 
 # Special Thanks for:
